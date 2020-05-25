@@ -6,7 +6,7 @@ Design a music library UWP where users of the app can each build their collectio
 
 # Project Name: GEMM Music
 
-#Team Members: 
+Team Members: 
 - Geetha
 - Manjula
 - Ekampreet Kaur
