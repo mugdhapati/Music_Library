@@ -8,8 +8,8 @@ Design a music library UWP where users of the app can each build their collectio
 
 Team Members: 
 - Geetha
-- Manjula
 - Ekampreet Kaur
+- Manjula 
 - Mugdha Pati
 
 # Features 
@@ -17,7 +17,10 @@ Team Members:
 * Search - User is able to search any song by name and artist name.
 * Songs Details - When user play any music, user is able to see the music deatils what is album anme and artist name.
 * Add Playlist - User can add or delete any songs in local directory of project and it will show in app under add playlist. 
-* Background Image with song - When user play any song. It will show background cover of that song.
+* Cover Image with song - When user play any song. It will show cover Image of that song.
 
 # Project Demo
 https://youtu.be/7BRWzMQoYls
+
+# Kanban Board
+https://github.com/mugdhapati/Music_Library/projects/1
